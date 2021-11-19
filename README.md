@@ -2,6 +2,9 @@
  Kafka with microservice
 </h1>
 
+## About
+- This is a simple microservice API that receives messages simulating a creation user.
+
 ## Technologies
 - KafkaJS
 - NodeJS
